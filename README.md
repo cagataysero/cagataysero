@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on become fullstack developer.
+I'm currently working on become backend developer.
 
 
 ## 🌐 Socials:
