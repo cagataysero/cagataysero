@@ -20,10 +20,10 @@ Hello! 👋 I'm currently on my journey to become a skilled backend developer. I
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cagataysero&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cagataysero&theme=dark&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=cagataysero&theme=react-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cagataysero&theme=dark&hide_border=true&layout=compact)
+
 
 
 ## 🔥 Fun Facts
