@@ -27,16 +27,8 @@ Hello! 👋 I'm currently on my journey to become a skilled backend developer. I
 
 
 ## 🔥 Fun Facts
-![](https://komarev.com/ghpvc/?username=cagataysero&style=flat-square&color=red)
+[![](https://visitcount.itsvg.in/api?id=cagataysero&icon=5&color=12)](https://visitcount.itsvg.in)
 
----
-
-![Snake animation](https://github.com/cagataysero/cagataysero/blob/output/github-contribution-grid-snake.svg)
-![GitHub Metrics](https://github.com/cagataysero/cagataysero/blob/main/github-metrics.svg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cagataysero&repo=REPO_NAME&theme=radical)](https://github.com/cagataysero/REPO_NAME)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=cagataysero&theme=radical)
-[![GitHub Skyline](https://github.com/cagataysero/cagataysero/blob/main/skyline.png)](https://skyline.github.com/cagataysero/2023)
 
 
 <!--
